@@ -24,7 +24,7 @@ open the repo in a terminal and type in ```node index.js```. follow the prompts 
 
 ## License
 
-This project is licensed under the MIT license.
+This project is licensed under the [MIT](https://opensource.org/license/mit/) license.
 
 ## Contributing
 

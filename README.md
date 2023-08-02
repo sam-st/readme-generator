@@ -3,7 +3,7 @@
 
 ## Description
 
-generatesd a readm \
+generates a readme
 
 ## Table of Contents
 
@@ -16,11 +16,11 @@ generatesd a readm \
 
 ## Installation
 
-download repo
+download repo and install node.js
 
 ## Usage
 
-```node index.js```
+open the repo in a terminal and type in ```node index.js```. follow the prompts to have a stylized README.md
 
 ## License
 
@@ -28,7 +28,7 @@ This project is licensed under the MIT license.
 
 ## Contributing
 
-UPENN PROVEIDED CODE
+UPENN Bootcamp provided base code.
 
 ## Tests
 
